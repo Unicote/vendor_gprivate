@@ -280,7 +280,7 @@
     <item type="id" name="video_view"></item>
     <integer name="gesture_assist_sensitivity_default">4</integer>
     <integer name="gesture_assist_sensitivity_max">8</integer>
-    <integer name="haptics_level_max">2</integer>
+    <integer name="haptics_level_max">3</integer>
     <plurals name="security_settings_hub_show_warnings_preference">
         <item quantity="other">See all warnings (%1$d)</item>
         <item quantity="one">Show %1$d warning</item>
